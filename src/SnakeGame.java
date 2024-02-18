@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class SnakeGame {
+public class SnakeGame {
+    public SnakeGame() {
+        new GameFrame();
+    }
 }
