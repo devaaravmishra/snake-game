@@ -26,6 +26,7 @@ public class GameController {
     public void reset() {
         snake.reset();
         score = 0;
+        play();
     };
 
     public void generateFood() {
