@@ -46,9 +46,12 @@ Really? Who doesn't know how to play Snake Game
 
 ## Screenshots
 
-![Snake Game](./assets/screenshot_1.png)
-
-![Snake Game](./assets/screenshot_2.png)
+<div style="text-align: center;">
+    <img src="./assets/screenshot_1.png" 
+    width="300" height="300" alt="Snake Game"/>
+    <br/>
+    <img src="./assets/screenshot_2.png" width="300" height="300" alt="Snake Game"/>
+</div>
 
 ## Contributing
 
